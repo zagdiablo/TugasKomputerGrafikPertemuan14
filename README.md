@@ -1,4 +1,4 @@
-# TugasKomputerGrafikPertemuan14
+# simple-snake-game
 
 A simple snake game made in java.
 
